@@ -1,0 +1,14 @@
+{
+  "name": "org-repos",
+  "version": "1.0.0",
+  "description": "fetch repos from parchment-io",
+  "main": "getRepos.js",
+  "scripts": {
+    "start": "node getRepos.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
